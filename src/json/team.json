@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Vikas Pandey",
+        "position" : "President",
+        "Linkedin" : "https://www.linkedin.com/in/vikaspandey001/",
+        "image" : "https://media.licdn.com/dms/image/D4D03AQEqHyeSwdpoNw/profile-displayphoto-shrink_200_200/0/1676537127654?e=1712188800&v=beta&t=jhmFAjMJkKFP16KvoNO1ybw8Gjrr9uRcLx3VaH-R2fY",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+	},
+	{
+		"name": "Teesha Garg",
+        "position" : "Vice President",
+        "image" : "https://media.licdn.com/dms/image/C4D03AQHD6TLC1G7ZkA/profile-displayphoto-shrink_200_200/0/1651939666024?e=1712188800&v=beta&t=sVeFem8Rb-ekhrqfc0wa-5Tn6BH4O8XAvEY_qJMlTMY",
+        "Linkedin" : "https://www.linkedin.com/in/teesha-garg-000bb2227/",
+        "description" : "lorem ipsum teesha"
+	},
+	{
+		"name": "Coucil1",
+        "position" : "Post1",
+        "image" : "https://imgs.search.brave.com/ZUmKxia_oEngjDhId6vvZ0X1H19fpLxU3R8StYdY_Z4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC80Ni8wMC9t/YWxlLWRlZmF1bHQt/cGxhY2Vob2xkZXIt/YXZhdGFyLXByb2Zp/bGUtZ3JheS12ZWN0/b3ItMzE5MzQ2MDAu/anBn",
+        "Linkedin" : "#",
+        "description" : "lorem"
+	},
+	{
+		"name": "Coucil2",
+        "position" : "Post2",
+        "image" : "https://imgs.search.brave.com/ZUmKxia_oEngjDhId6vvZ0X1H19fpLxU3R8StYdY_Z4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC80Ni8wMC9t/YWxlLWRlZmF1bHQt/cGxhY2Vob2xkZXIt/YXZhdGFyLXByb2Zp/bGUtZ3JheS12ZWN0/b3ItMzE5MzQ2MDAu/anBn",
+        "Linkedin" : "#",
+        "description" : "lorem"
+	},
+	{
+		"name": "Coucil3",
+        "position" : "Post3",
+        "image" : "https://imgs.search.brave.com/ZUmKxia_oEngjDhId6vvZ0X1H19fpLxU3R8StYdY_Z4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/dmVjdG9yc3RvY2su/Y29tL2kvcHJldmll/dy0xeC80Ni8wMC9t/YWxlLWRlZmF1bHQt/cGxhY2Vob2xkZXIt/YXZhdGFyLXByb2Zp/bGUtZ3JheS12ZWN0/b3ItMzE5MzQ2MDAu/anBn",
+        "Linkedin" : "#",
+        "description" : "lorem"
+	}   
+]
